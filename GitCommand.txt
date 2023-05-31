@@ -1,0 +1,14 @@
+//CREATE NEW REPOSITORY ON THE COMMAND LINE
+
+git init
+git add README.md
+git commit -m "First Commit"
+git branch -M main
+git remote add origin PATH (Project path form github)
+git push -u origin main
+
+//PUSH AN EXISTING REPOSITORY FROM THE COMMAN LINE
+
+git remote add origin PATH (Project path from github)
+git banch -M main
+git push -u origin main
